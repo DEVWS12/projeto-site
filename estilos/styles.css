@@ -3,12 +3,12 @@
     font-size: 16px;
 }
 
-.body{
-    background-color: rgb(211, 179, 247);
+body{
+    background-color: rgba(222, 201, 247, 0.74);
     
 }
 
-.main{
+main{
     background-color: white;
     width:600px;
     padding: 20px;
@@ -16,6 +16,9 @@
     box-shadow: 3px 3px 5px rgb(0, 0, 0, 0.450);
 }
 
-#imagens {
-    width: 30%;
+img.imagens2 {
+    width: 600px;
+    border: 20px;
+    border-radius: 3px;
+    border-color:rgb(191, 146, 245) ;
 }
