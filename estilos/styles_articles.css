@@ -14,9 +14,13 @@ h2{
     font-style: oblique;
     margin-bottom: 20px;
 }
-body{
-    background-color: rgba(222, 201, 247, 0.74);
-    
+
+body.outono{
+    background-color: rgba(247, 231, 201, 0.74);
+}
+
+body.verao{
+    background-color: rgba(201, 247, 233, 0.74);
 }
 
 main{
