@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(211, 179, 247);
+    background-color: rgba(222, 201, 247, 0.74);
     
 }
 
@@ -16,6 +16,6 @@ main{
     box-shadow: 3px 3px 5px rgb(0, 0, 0, 0.450);
 }
 
-#imagens2 {
+.imagens2 {
     width: 20px;
 }
