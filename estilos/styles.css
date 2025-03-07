@@ -6,11 +6,13 @@
 h1{
     font-size: 16px;
     color: black;
+    margin-bottom: 30px;
 }
 
 h2{
     font-size: 14px;
     font-style: oblique;
+    margin-bottom: 20px;
 }
 body{
     background-color: rgba(222, 201, 247, 0.74);
