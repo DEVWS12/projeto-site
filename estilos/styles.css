@@ -31,3 +31,7 @@ img.imagens2 {
     border-radius: 3px;
     border-color:rgb(191, 146, 245) ;
 }
+
+img.centralizacao {
+    align-items: center;
+}
