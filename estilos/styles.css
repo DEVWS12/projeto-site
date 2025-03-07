@@ -17,5 +17,7 @@ main{
 }
 
 .imagens2 {
-    width: 200px;
+    width: 600px;
+    border: 2px;
+    border-radius: 3px;
 }
