@@ -10,8 +10,8 @@ body{
 
 main{
     background-color: white;
-    width:1400px;
-    padding: 20px;
+    width:800px;
+    padding: 60px;
     margin: auto;
     box-shadow: 3px 3px 5px rgb(0, 0, 0, 0.450);
 }
